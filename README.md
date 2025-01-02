@@ -1,6 +1,6 @@
 # Kapriel Talatinian
 
-Senior Backend Developer with expertise in Blockchain and Financial Technologies. Currently advancing skills in Python, C, and Financial Markets Analysis.
+Backend Developer with expertise in Blockchain and Financial Technologies. Currently advancing skills in Python, C, and Financial Markets Analysis.
 
 ## Technical Skills
 
